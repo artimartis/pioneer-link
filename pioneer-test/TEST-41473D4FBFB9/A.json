@@ -1,0 +1,10 @@
+{
+  "version": "0.1",
+  "device_id": "A-BBB3FDD5",
+  "cid": "TEST-41473D4FBFB9",
+  "endpoint": "188.146.4.84:38887",
+  "nonce": "3767b681a31b4d92",
+  "timestamp": 1789029127,
+  "expires": 1789029247,
+  "state": "IDLE"
+}
