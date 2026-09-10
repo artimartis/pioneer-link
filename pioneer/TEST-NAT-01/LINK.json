@@ -2,8 +2,8 @@
   "version": "1.0",
   "cid": "TEST-NAT-01",
   "state": "PUNCHING",
-  "from": "5AAD134B8485DD21",
+  "from": "15302A83D1158864",
   "request_id": "8e280b2068cf818e",
-  "timestamp": 1789046427,
-  "expires": 1789046607
+  "timestamp": 1789046430,
+  "expires": 1789046610
 }
