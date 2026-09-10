@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "cid": "TEST-NAT-01",
-  "state": "IDLE",
+  "state": "REQUEST",
   "from": "DEVICE_ID_A",
-  "request_id": null,
-  "timestamp": 1789032912,
-  "expires": 1789033002
+  "request_id": "b09ed41d73a2ec01",
+  "timestamp": 1789032914,
+  "expires": 1789033004
 }
