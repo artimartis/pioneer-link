@@ -2,10 +2,10 @@
   "version": "1.0",
   "device_id": "DEVICE_ID_A",
   "cid": "TEST-NAT-01",
-  "endpoint": "188.146.6.7:42680",
-  "nonce": "5307b3c5b983449bf36ca2f901de7cea",
+  "endpoint": "188.146.6.7:42720",
+  "nonce": "ff437caab4a42ff9fb2a5f3732366833",
   "state": "IDLE",
   "request_id": null,
-  "timestamp": 1789035300,
-  "expires": 1789035390
+  "timestamp": 1789037936,
+  "expires": 1789038026
 }
