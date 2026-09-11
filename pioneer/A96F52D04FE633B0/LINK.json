@@ -2,8 +2,9 @@
   "version": "1.0",
   "cid": "A96F52D04FE633B0",
   "state": "CONNECTED",
-  "from": "538E3A4B27D35C33",
+  "from": "5D713E36BBC031D2",
   "request_id": "5933347bd925bece",
-  "timestamp": 1789128693,
-  "expires": 1789128783
+  "timestamp": 1789128694,
+  "expires": 1789128784,
+  "round_id": "b12812caa56ef321"
 }
