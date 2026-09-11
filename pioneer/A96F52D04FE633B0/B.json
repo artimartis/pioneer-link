@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "device_id": "5D713E36BBC031D2",
+  "cid": "A96F52D04FE633B0",
+  "endpoint": "188.146.6.7:42666",
+  "nonce": "e8a87eea93577b3c96ceffa281be588d",
+  "state": "READY",
+  "request_id": "5933347bd925bece",
+  "timestamp": 1789128682,
+  "expires": 1789128772
+}
