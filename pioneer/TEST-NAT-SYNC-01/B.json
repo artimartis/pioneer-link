@@ -4,8 +4,11 @@
   "cid": "TEST-NAT-SYNC-01",
   "endpoint": "188.146.6.7:42678",
   "nonce": "aa388a2f63e55b62b5e107c21bcb6c2e",
-  "state": "READY",
+  "state": "PUNCHING",
   "request_id": "1b425cddb408276e",
-  "timestamp": 1789108794,
-  "expires": 1789108884
+  "timestamp": 1789108801,
+  "expires": 1789108891,
+  "round_id": "9007542cd0ecd554",
+  "punch_at": 1789108804.0010002,
+  "stun_time": 1789108801.0194314
 }
