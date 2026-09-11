@@ -2,13 +2,10 @@
   "version": "1.0",
   "device_id": "5AAD134B8485DD21",
   "cid": "TEST-NAT-SYNC-01",
-  "endpoint": "188.146.6.7:42639",
-  "nonce": "79c7be35e3bbe11d86f006f0551d4f92",
-  "state": "PUNCHING",
-  "request_id": "8bd0361f4fbca61c",
-  "timestamp": 1789109391,
-  "expires": 1789109481,
-  "round_id": "8c4454d30a892515",
-  "punch_at": 1789109394.0010006,
-  "stun_time": 1789109391.0290227
+  "endpoint": "188.146.6.7:42715",
+  "nonce": "5b6611bd0a94082a2be43a6fb4d6a051",
+  "state": "READY",
+  "request_id": "5e3909ea12ea4661",
+  "timestamp": 1789110274,
+  "expires": 1789110364
 }
