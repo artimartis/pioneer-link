@@ -1,9 +1,12 @@
 {
   "version": "1.0",
   "cid": "TEST-NAT-SYNC-01",
-  "state": "READY",
-  "from": "5AAD134B8485DD21",
+  "state": "SYNC_PROPOSE",
+  "from": "15302A83D1158864",
   "request_id": "8bd0361f4fbca61c",
-  "timestamp": 1789109382,
-  "expires": 1789109472
+  "timestamp": 1789109388,
+  "expires": 1789109478,
+  "round_id": "8c4454d30a892515",
+  "punch_at": 1789109394.0010006,
+  "stun_lead": 3.0
 }
