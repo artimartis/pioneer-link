@@ -3,9 +3,9 @@
   "device_id": "15302A83D1158864",
   "cid": "TEST-NAT-SYNC-01",
   "endpoint": "188.146.6.7:42675",
-  "nonce": "44cb45a1a91bf88c1574e99e2e2b1d4b",
+  "nonce": "7788e2c8debd194d118d3f0fe229915f",
   "state": "IDLE",
   "request_id": null,
-  "timestamp": 1789108439,
-  "expires": 1789108529
+  "timestamp": 1789108476,
+  "expires": 1789108566
 }
