@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "cid": "TEST-NAT-SYNC-01",
-  "state": "FAILED",
+  "state": "REQUEST",
   "from": "15302A83D1158864",
-  "request_id": "1b425cddb408276e",
-  "timestamp": 1789108824,
-  "expires": 1789108914
+  "request_id": "ed0e90a7bdcd1117",
+  "timestamp": 1789108841,
+  "expires": 1789108931
 }
