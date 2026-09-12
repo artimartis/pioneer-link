@@ -3,9 +3,9 @@
   "device_id": "538E3A4B27D35C33",
   "cid": "A96F52D04FE633B0",
   "endpoint": "188.146.6.7:42722",
-  "nonce": "84515467406fad8072ffade09116c1da",
+  "nonce": "600cd63600a90288326e8df616eff60d",
   "state": "IDLE",
   "request_id": null,
-  "timestamp": 1789198801,
-  "expires": 1789198891
+  "timestamp": 1789198854,
+  "expires": 1789198944
 }
