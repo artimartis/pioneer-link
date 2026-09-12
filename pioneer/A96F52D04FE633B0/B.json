@@ -2,10 +2,10 @@
   "version": "1.0",
   "device_id": "5D713E36BBC031D2",
   "cid": "A96F52D04FE633B0",
-  "endpoint": "91.94.126.122:62478",
-  "nonce": "768011325a5718024e167922f067f49e",
+  "endpoint": "91.94.126.122:62467",
+  "nonce": "dfdab6a8ea1bba157c9e45d1d80c0cee",
   "state": "READY",
-  "request_id": "6978b84033a0c554",
-  "timestamp": 1789198860,
-  "expires": 1789198950
+  "request_id": "4ed3713d0de32d7d",
+  "timestamp": 1789199492,
+  "expires": 1789199582
 }
