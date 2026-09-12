@@ -3,9 +3,9 @@
   "device_id": "5D713E36BBC031D2",
   "cid": "A96F52D04FE633B0",
   "endpoint": "91.94.126.122:62478",
-  "nonce": "8a0038b6a699cdc355b2cd5d3fa03a64",
+  "nonce": "768011325a5718024e167922f067f49e",
   "state": "READY",
-  "request_id": "9d7ce4be8d8549bc",
-  "timestamp": 1789198809,
-  "expires": 1789198899
+  "request_id": "6978b84033a0c554",
+  "timestamp": 1789198860,
+  "expires": 1789198950
 }
