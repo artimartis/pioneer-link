@@ -4,8 +4,11 @@
   "cid": "A96F52D04FE633B0",
   "endpoint": "188.146.6.7:42693",
   "nonce": "3482a6635ed14b03ab1d91da22cce70c",
-  "state": "IDLE",
-  "request_id": null,
-  "timestamp": 1789199485,
-  "expires": 1789199575
+  "state": "PUNCHING",
+  "request_id": "4ed3713d0de32d7d",
+  "timestamp": 1789199497,
+  "expires": 1789199587,
+  "round_id": "b0d0f2db79f1e1cf",
+  "punch_at": 1789199499.0002737,
+  "stun_time": 1789199497.0335436
 }
