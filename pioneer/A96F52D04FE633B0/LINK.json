@@ -1,9 +1,12 @@
 {
   "version": "1.0",
   "cid": "A96F52D04FE633B0",
-  "state": "READY",
-  "from": "5D713E36BBC031D2",
+  "state": "SYNC_PROPOSE",
+  "from": "538E3A4B27D35C33",
   "request_id": "6ff48e36c72252a8",
-  "timestamp": 1789197615,
-  "expires": 1789197705
+  "timestamp": 1789197616,
+  "expires": 1789197706,
+  "round_id": "bc9ae8840df07ec1",
+  "punch_at": 1789197624.0002854,
+  "stun_lead": 3.0
 }
