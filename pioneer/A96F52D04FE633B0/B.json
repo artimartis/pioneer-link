@@ -4,8 +4,11 @@
   "cid": "A96F52D04FE633B0",
   "endpoint": "91.94.126.122:62467",
   "nonce": "dfdab6a8ea1bba157c9e45d1d80c0cee",
-  "state": "READY",
+  "state": "PUNCHING",
   "request_id": "4ed3713d0de32d7d",
-  "timestamp": 1789199492,
-  "expires": 1789199582
+  "timestamp": 1789199500,
+  "expires": 1789199590,
+  "round_id": "b0d0f2db79f1e1cf",
+  "punch_at": 1789199499.0002737,
+  "stun_time": 1789199497.050115
 }
