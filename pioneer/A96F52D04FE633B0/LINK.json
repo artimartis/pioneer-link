@@ -4,9 +4,6 @@
   "state": "PUNCHING",
   "from": "538E3A4B27D35C33",
   "request_id": "08fd072b814f2db8",
-  "timestamp": 1789281120,
-  "expires": 1789281210,
-  "round_id": "b5f684c4da08b96e",
-  "punch_at": 1789281121.000455,
-  "stun_lead": 2.0
+  "timestamp": 1789281124,
+  "expires": 1789281214
 }
