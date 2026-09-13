@@ -1,10 +1,9 @@
 {
   "version": "1.0",
   "cid": "A96F52D04FE633B0",
-  "state": "CONNECTED",
+  "state": "REQUEST",
   "from": "538E3A4B27D35C33",
-  "request_id": "713f9bd800929156",
-  "timestamp": 1789297013,
-  "expires": 1789297103,
-  "round_id": "195d3490e04d6dca"
+  "request_id": "74460954702651da",
+  "timestamp": 1789297482,
+  "expires": 1789297572
 }
