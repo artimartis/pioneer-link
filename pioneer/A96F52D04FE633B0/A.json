@@ -2,10 +2,10 @@
   "version": "1.0",
   "device_id": "538E3A4B27D35C33",
   "cid": "A96F52D04FE633B0",
-  "endpoint": "188.146.6.64:32831",
-  "nonce": "fc826b1a888b124362c1d52449b17140",
+  "endpoint": "188.146.6.64:32818",
+  "nonce": "41c8fb0e716103b368526dea1ba28d52",
   "state": "IDLE",
   "request_id": null,
-  "timestamp": 1789281201,
-  "expires": 1789281291
+  "timestamp": 1789282366,
+  "expires": 1789282456
 }
