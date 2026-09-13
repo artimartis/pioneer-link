@@ -2,13 +2,10 @@
   "version": "1.0",
   "device_id": "5D713E36BBC031D2",
   "cid": "A96F52D04FE633B0",
-  "endpoint": "91.94.126.122:12057",
-  "nonce": "6be8f76031f63ba3c724feaebd664ca7",
-  "state": "PUNCHING",
-  "request_id": "6f5d69830f3e236f",
-  "timestamp": 1789298773,
-  "expires": 1789298863,
-  "round_id": "dae4412f00a04129",
-  "punch_at": 1789298775.000328,
-  "stun_time": 1789298773.045059
+  "endpoint": "91.94.126.122:51217",
+  "nonce": "7c1bcfe03505d1121d29c143d54da30e",
+  "state": "READY",
+  "request_id": "43d2772bf07a60b9",
+  "timestamp": 1789303318,
+  "expires": 1789303408
 }
