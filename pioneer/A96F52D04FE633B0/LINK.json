@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "cid": "A96F52D04FE633B0",
-  "state": "PUNCHING",
-  "from": "538E3A4B27D35C33",
+  "state": "FAILED",
+  "from": "5D713E36BBC031D2",
   "request_id": "f183523a068cef66",
-  "timestamp": 1789303785,
-  "expires": 1789303875
+  "timestamp": 1789303798,
+  "expires": 1789303888
 }
