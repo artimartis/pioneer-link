@@ -1,7 +1,7 @@
 {
   "test_id": "ORANGE-TMOBILE-01",
   "role": "A",
-  "public_endpoint": "91.94.126.122:20510",
-  "timestamp_epoch": 1789294842.8136225,
-  "timestamp": "2026-09-13 12:20:42"
+  "public_endpoint": "188.146.6.64:32861",
+  "timestamp_epoch": 1789294924.0765066,
+  "timestamp": "2026-09-13 12:22:04"
 }
