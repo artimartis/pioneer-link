@@ -3,12 +3,9 @@
   "device_id": "5D713E36BBC031D2",
   "cid": "A96F52D04FE633B0",
   "endpoint": "91.94.126.122:12035",
-  "nonce": "49b66a572dfc6fb94eaa56ea67b739d1",
-  "state": "PUNCHING",
-  "request_id": "74460954702651da",
-  "timestamp": 1789297492,
-  "expires": 1789297582,
-  "round_id": "3e142d930b79338f",
-  "punch_at": 1789297494.000564,
-  "stun_time": 1789297492.0500593
+  "nonce": "a157504609d91ccbc22b2f3f139d04d6",
+  "state": "READY",
+  "request_id": "0c5faf1ccf829309",
+  "timestamp": 1789297555,
+  "expires": 1789297645
 }
